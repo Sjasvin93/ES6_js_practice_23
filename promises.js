@@ -125,3 +125,9 @@ newPromise.then(
 }).then((newResult) => {
    console.log(newResult);
 })
+
+// promise.all() it resolves all the promise and return an array
+
+Promise.all(['newPromise','letPromise','p','filePromise']).then(
+   (value) => {console.log(value)}
+)
