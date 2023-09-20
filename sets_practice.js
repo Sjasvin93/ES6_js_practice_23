@@ -1,5 +1,5 @@
 //-----SETS-----
-// Properties
+// Definitions
 /* 
 1. A JavaScript Set is a collection of unique values.
 2. Each value can only occur once in a Set.

@@ -21,7 +21,7 @@ let x = 10
 console.log(x)
 
 //-----const keyword-----
-// Properties
+// Defnitions
 /* 
 1. Variables defined with const cannot be Redeclared
 2. Variables defined with const cannot be Reassigned
@@ -45,7 +45,7 @@ const y = 'i10'
 console.log(y)
 
 //------ CONSTANT ARRAY-------
-// Properties
+// Definitions
 /* 
 1. We can change the element of the const array
 2. We can't reassign the constant array

@@ -1,5 +1,5 @@
 //-----The For/Of Loop-----
-// Properties
+// Defnitions
 /* 
 1. The JavaScript for/of statement loops through the values of an iterable objects.
 2. for/of lets you loop over data structures that are iterable such as Arrays, Strings, Maps, NodeLists, and more.
@@ -36,7 +36,7 @@ console.log(finalString)
 
 
 //-----MAPS-----
-// Properties
+// Defnitions
 /* 
 1. A Map holds key-value pairs where the keys can be any datatype.
 2. A Map remembers the original insertion order of the keys.

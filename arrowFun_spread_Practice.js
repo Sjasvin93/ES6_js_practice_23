@@ -1,5 +1,5 @@
 //-----Arrow Function-----
-// Properties
+// Definitions
 /* 
 1. Arrow functions allows a short syntax for writing function expressions.
 2. You don't need the function keyword, the return keyword, and the curly brackets.
@@ -25,10 +25,4 @@ var x = function(x, y) {
  let z = t => t + t;
  console.log(z(10))
 
- //-----The Spread (...) Operator-----
-// Properties
-/* 
-1. The ... operator expands an iterable (like an array) into more elements
-2. The ... operator can be used to expand an iterable into more arguments for function calls
-*/
 
