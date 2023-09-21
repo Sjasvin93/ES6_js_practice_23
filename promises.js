@@ -12,9 +12,9 @@
 6. When a Promise object is "fulfilled", the result is a value.
 7. When a Promise object is "rejected", the result is an error object.
 8. Promise.then() takes two arguments, a callback for success and another for failure.
-9. Both are optional, so you can add a callback for success or failure only.
-10. catch() method to schedule a callback to be invoked when the promise is rejected.
-11. Place the code that you want to execute in the finally() method whether the promise is fulfilled or rejected.
+   Both are optional, so you can add a callback for success or failure only.
+9. catch() method to schedule a callback to be invoked when the promise is rejected.
+10. Place the code that you want to execute in the finally() method whether the promise is fulfilled or rejected.
 */
 
 // Example
