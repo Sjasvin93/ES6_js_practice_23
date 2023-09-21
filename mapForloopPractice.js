@@ -65,9 +65,6 @@ const fruitMap = new Map([
     ["mango", 987],
 ]);
 
-const arr = Array.from(fruitMap);
-console.log("")
-
 //adding new pairs to the map
 fruitMap.set("kiwi",770)
 fruitMap.set("guawa",590)
