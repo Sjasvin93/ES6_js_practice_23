@@ -25,4 +25,9 @@ var x = function(x, y) {
  let z = t => t + t;
  console.log(z(10))
 
+ const status = () => {
+    return 'SUCCESS'
+ }
+ console.log(status)
+
 
